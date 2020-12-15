@@ -31,7 +31,7 @@ changeEnough([30, 40, 20, 5], 12.55);
 
 
 
-
+// FALTA CREACION DE UNA CLASE CON METODOS DE NIVEL DE CLASE PARA ERRORES
 
 
 /******
