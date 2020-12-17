@@ -1,0 +1,25 @@
+{
+  "name": "js-fun-Convenience-Store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "module": "^1.2.5",
+    "npm": "^6.14.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardosikic/js-fun-Convenience-Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardosikic/js-fun-Convenience-Store/issues"
+  },
+  "homepage": "https://github.com/ricardosikic/js-fun-Convenience-Store#readme"
+}
